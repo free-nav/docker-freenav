@@ -62,6 +62,7 @@ ___
 
 以下是OneNav部分用户演示站，排名不分先后。
 
+* freeNav：[[https://nav.rss.ink/](https://nav.17lai.site/)](https://nav.17lai.site/)
 * OneNav：[https://nav.rss.ink/](https://nav.rss.ink/)
 * 千行书签：[http://www.52qx.club/](http://www.52qx.club/)
 * 纽及书签：[http://www.1006788.com/](http://www.1006788.com/)
