@@ -1,4 +1,4 @@
-FROM alpine:3.20
+FROM alpine:3.12
 
 WORKDIR /root
 #复制启动文件
